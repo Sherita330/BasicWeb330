@@ -1,0 +1,63 @@
+html {
+
+    background-color: rgb(0, 102, 255);
+}
+
+body {
+    background-color: white;
+    width: 960px;
+    margin: 20px auto;
+    border-radius: 20;
+}
+header {
+    padding: 20px;
+    text-align: center;
+
+}
+header img {
+    display: block;
+    margin: 20px auto;
+    width: 400pt;
+}
+
+nav {
+    background-color: crimson;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    color: green;
+    font-size: 28px;
+    margin:0 20px;
+}
+
+nav a :hover {
+    color: khaki;
+    text-decoration:none;
+}
+main img {
+    display: block;
+    margin: 20px auto; 
+    width: 400pt;
+}
+
+
+footer {
+    background-color: crimson;
+    text-align: center;
+    padding: 40px 0;
+    border-radius:0 0 20px 20px;
+}
+
+a {
+    color: gray;
+}
+a :hover {
+    color: darkmagenta;
+    text-decoration: none;
+}
+
+h1,h2,h3 {
+    color: orange;
+}
