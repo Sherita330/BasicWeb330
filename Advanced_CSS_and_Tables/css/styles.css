@@ -5,7 +5,7 @@ body{
 img {
 display: block;
 margin: 0 auto;
-width:70% ;
+width: 100%;
 }
 
 h1,h2,h3 {
@@ -25,18 +25,18 @@ nav {
     text-align: center;
 }
 
-nav ul{
+nav ul {
     padding: 0;
     list-style-type: none;
 }
 
-Nav li {
+nav li {
     display: inline-block;
 }
 
 nav li a {
     display: block;
-    background-color:black ;
+    background-color: black;
     width: 200px;
     height: 50px;
     line-height: 50px;
@@ -68,11 +68,11 @@ aside {
 }
 
 section {
-    width: 70%;
+    width: 80%;
 }
 
 aside {
-    width: 30%;
+    width: 20%;
 }
 
 .single_page {
@@ -83,7 +83,7 @@ main_img resize {
     width: 75%;
 }
 
-#lower area {
+#lower_area {
     display: flex;
 }
 
